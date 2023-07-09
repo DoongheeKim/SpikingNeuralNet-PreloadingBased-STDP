@@ -1,0 +1,15 @@
+The source code is based on reference [1].
+
+modified files: 
+  learning.py (renamed as tsd_learning.py)
+  classify.py (renamed as tsd_classify.py)
+  reconstruct.py
+  spike_train.py
+
+added files:
+  read_sens_data.py
+
+
+Reference
+[1] https://github.com/Shikhargupta/Spiking-Neural-Network
+
