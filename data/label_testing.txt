@@ -1,0 +1,6 @@
+file=NO2_t180_0.1ppm.txt  label=0
+file=NO2_t180_0.3ppm.txt  label=1
+file=NO2_t180_0.5ppm.txt  label=2
+file=IDE_h2s_10ppm_t180.txt  label=3
+file=IDE_h2s_30ppm_t180.txt  label=4
+file=IDE_h2s_50ppm_t180.txt  label=5
